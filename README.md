@@ -17,9 +17,18 @@ The Cloud Armor Visibility Dashboard? allows you to view and analsze  Google Glo
 
 ## Technical installation
 
-### Setup the Envirenment varaibles
+### 1) Setup the Envirenment varaibles
 
     export USER_EMAIL=<email_id>
     export PROJECT_ID=<Project_id>
     export DATASET=<dataset name>
     export REGION=<region>
+
+
+### 2) Execte the schema_setup.sh
+
+      sh ./schema_setup.sh
+      
+### 3) Setup Looker Studio Dashboard for your dataset
+
+#### a) Copy [this] (https://lookerstudio.google.com/c/u/0/reporting/794371be-a32c-4623-a388-9aa96b0c5e6a/page/04pID) Looker Dashboard 
