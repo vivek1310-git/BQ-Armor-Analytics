@@ -34,3 +34,14 @@ The Cloud Armor Visibility Dashboard? allows you to view and analsze  Google Glo
 #### a) Copy [this](https://lookerstudio.google.com/c/u/0/reporting/794371be-a32c-4623-a388-9aa96b0c5e6a/page/04pID) Looker Dashboard to your Looker studio account (Check the image below)
 <img width="537" alt="Screenshot 2023-03-24 at 1 23 42 PM" src="https://user-images.githubusercontent.com/126858124/227850027-c5d7d51a-78d6-45f0-aab3-6255f2e592d8.png">
 
+
+#### b) On New data source dropdown, select "create Data source"
+
+
+
+<img width="727" alt="Screenshot 2023-03-27 at 11 09 12 AM" src="https://user-images.githubusercontent.com/126858124/227850522-603cd402-d311-460f-b9da-f7197a946405.png">
+
+#### c) Select Bigquery connector and then select your project, Dataset and log_report table and then click on connect.
+
+
+<img width="1727" alt="Screenshot 2023-03-27 at 11 13 38 AM" src="https://user-images.githubusercontent.com/126858124/227850987-d6922a55-0320-4316-aa0b-204c35103738.png">
