@@ -3,7 +3,7 @@ This is repo for creating Dashboard of Armor Log data Analytics using BigQuery a
 
 ## Why use the Google Cloud Armor Visibility Dashboard?
 
-The Cloud Armor Visibility Dashboard? allows you to view and analsze  Google Global Load-Balancing security data related to Web Application Security (WAF), from Google Cloud Armor. The Visibility Dashboard gives you the ability to integrate security, traffic and web application metrics, to perform security monitoring and analysis of your Google Cloud resources protected by Cloud Armor. This gives location based insight about the traffic lets you drill down to final level of data.
+The Cloud Armor Visibility Dashboard? allows you to view and analyze  Google Global Load-Balancing security data related to Web Application Security (WAF), from Google Cloud Armor. The Visibility Dashboard gives you the ability to integrate security, traffic and web application metrics, to perform security monitoring and analysis of your Google Cloud resources protected by Cloud Armor. This gives location based insight about the traffic and lets you drill down to the final level of data.
 
 
 ## Getting Started
@@ -17,7 +17,7 @@ The Cloud Armor Visibility Dashboard? allows you to view and analsze  Google Glo
 
 ## Technical installation
 
-### 1) Setup the Envirenment varaibles
+### 1) Setup the Environment variables
 
     export USER_EMAIL=<email_id>
     export PROJECT_ID=<Project_id>
@@ -25,10 +25,10 @@ The Cloud Armor Visibility Dashboard? allows you to view and analsze  Google Glo
     export REGION=<region>
 
 
-### 2) Execte the schema_setup.sh
+### 2) Execute the schema_setup.sh
 
       sh ./schema_setup.sh
-      
+     
 ### 3) Setup Looker Studio Dashboard for your dataset
 
 #### a) Copy [this](https://lookerstudio.google.com/c/u/0/reporting/794371be-a32c-4623-a388-9aa96b0c5e6a/page/04pID) Looker Dashboard to your Looker studio account (Check the image below)
@@ -45,3 +45,6 @@ The Cloud Armor Visibility Dashboard? allows you to view and analsze  Google Glo
 
 
 <img width="1727" alt="Screenshot 2023-03-27 at 11 13 38 AM" src="https://user-images.githubusercontent.com/126858124/227850987-d6922a55-0320-4316-aa0b-204c35103738.png">
+
+
+#### Start analyzing your data !!!
