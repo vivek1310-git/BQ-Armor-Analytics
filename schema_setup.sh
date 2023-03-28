@@ -1,5 +1,4 @@
 gcloud config set project ${PROJECT_ID}
-gcloud config set account ${USER_EMAIL}
 project_id=${PROJECT_ID}
 dataset=${DATASET}
 region=${REGION}
